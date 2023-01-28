@@ -1,4 +1,4 @@
-# Bug Bounty Resources
+# Toolkit
 
 The ~~toolkit~~ collection of random scripts I found under my bed. In severe need of updating. 
 
